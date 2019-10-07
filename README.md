@@ -1,5 +1,5 @@
-# CPSC411-Hmwk1
+### CPSC411-Hmwk1
 
-Joshua Ungheanu
-Homework Assignment 1
-Due October 6, 2019
+- Joshua Ungheanu
+- Homework Assignment 1
+- Due October 6, 2019
